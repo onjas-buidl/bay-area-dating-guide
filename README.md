@@ -21,3 +21,4 @@ Thanks to @amydeng_ (on X) to contribute to the initial batch!
 - Salsa class ODC Friday
 - Presidio golf course trail in late afternoon (for the sun)
 - Presidio bowl bowling
+- Escape rooms

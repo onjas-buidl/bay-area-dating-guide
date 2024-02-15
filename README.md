@@ -23,3 +23,4 @@ Thanks to @amydeng_ (on X) to contribute to the initial batch!
 - Presidio bowl bowling
 - Escape rooms
 - Museums & Art Galleries (Legion of Honor, SF MoMA, Asian Art)
+- AutoCamp

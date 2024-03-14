@@ -1,7 +1,7 @@
 # bay-area-dating-guide
 Thanks to @amydeng_ (on X) to contribute to the initial batch!
 
-
+- Mr. Tipples Jazz Club
 - Yellow go carts
 - Foreign cinema (restaurant)
 - After dark Exploratorium
